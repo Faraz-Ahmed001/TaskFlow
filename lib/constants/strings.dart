@@ -1,6 +1,6 @@
 class AppStrings {
   // App Name
-  static const String appName = 'TO DO APP';
+  static const String appName = 'TaskFlow';
 
   // Home Page
   static const String noTasksYet = 'No tasks yet!';
